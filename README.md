@@ -2,12 +2,15 @@
 usefull resource for memory management and corruption
 
 ## ToDo list
+
 [] index
+[] intro
+[] usefull softwares and commands
 
 
 ## design decision
 [] code in C / rust?
-[] 
+[] markup / html 
 
 
 
